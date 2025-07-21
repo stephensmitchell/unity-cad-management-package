@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "com.ssm.cad.manager": "file:T:/a/unity-cad-manager/src/Packages/com.ssm.cad.manager",
+    "com.unity.inputsystem": "1.14.1",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.visualscripting": "1.9.8",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.umbra": "1.0.0"
+  }
+}

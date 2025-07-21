@@ -1,0 +1,10 @@
+{
+  "name": "com.ssm.cad.manager",
+  "version": "1.0.0",
+  "displayName": "CAD Management Tools",
+  "description": "\ufeffhttps://github.com/stephensmitchell/",
+  "unity": "2025.0",
+  "author": {
+    "name": "Your Name"
+  }
+}
